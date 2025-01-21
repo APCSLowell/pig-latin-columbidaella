@@ -6,7 +6,6 @@ public class Main {
 		PigLatin sim = new PigLatin();
         	//sim.tester();
 	}
-	
 
 
 }
