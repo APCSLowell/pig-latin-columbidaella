@@ -58,4 +58,6 @@ public String pigLatin(String sWord)
  sWord += "w";
  }
  return sWord+"ay";
- }//end PigLatin class
+ }
+}
+	
